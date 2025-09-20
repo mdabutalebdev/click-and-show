@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/7454574545-440x440.webp",
+    "title": "Lorem ipsum dolor sit amet.",
+    "shortDesc": "Lorem, ipsum.",
+    "comments": 6,
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Iure aliquid voluptas unde aspernatur, reprehenderit id ea vel libero explicabo cupiditate ratione in eveniet ut magnam quas corrupti fugiat. Impedit temporibus vero, adipisci ex nesciunt harum voluptatem labore tempore accusamus doloribus eveniet iure atque. Magnam et dolorum modi aut aperiam. Alias rem et deleniti, perferendis voluptate iusto molestiae odit qui magni.",
+    "tags": "LifeStyle",
+    "tags1": "Trending",
+    "views": 550,
+    "readTime": "3 min read"
+  },
+  { 
+    "id": 2,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-440x440.webp",
+    "title": "Consectetur adipiscing elit.",
+    "shortDesc": "Dolor sit amet.",
+    "comments": 8,
+    "description": "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.",
+    "tags": "Sports" ,
+    "tags1": "Trending",
+    "views": 420,
+    "readTime": "4 min read"
+  },
+  {
+    "id": 3,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/arafed-skateboard-with-colorful-design-440x440.webp",
+    "title": "Temporibus vero impedit.",
+    "shortDesc": "Magni dolores.",
+    "comments": 5,
+    "description": "Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.",
+    "tags": "Health",
+    "tags1": "Lifestyle",
+    "views": 300,
+    "readTime": "2 min read"
+  },
+  {
+    "id": 4,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/chapeau-tricolore-eyes-freedom-440x440.webp",
+    "title": "Eveniet ut magnam quas.",
+    "shortDesc": "Doloribus ex.",
+    "comments": 10,
+    "description": "Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+    "tags": "Health",
+    "tags1": "Lifestyle",
+    "views": 600,
+    "readTime": "5 min read"
+  },
+  {
+    "id": 5,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/blue-flower-is-blue-background-440x440.webp",
+    "title": "Alias rem et deleniti.",
+    "shortDesc": "Perferendis voluptate.",
+    "comments": 3,
+    "description": "Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur?",
+     "tags": "Sports" ,
+    "tags1": "Trending",
+    "views": 250,
+    "readTime": "3 min read"
+  },
+  {
+    "id": 6,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/08/there-is-cup-coffee-plate-shelf-generative-ai-440x440.webp",
+    "title": "Magnam et dolorum modi.",
+    "shortDesc": "Aut aperiam.",
+    "comments": 7,
+    "description": "Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?",
+     "tags": "Health",
+    "tags1": "Lifestyle",
+    "views": 480,
+    "readTime": "4 min read"
+  },
+  {
+    "id": 7,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/motorcycle-safety-helmet-300x300.webp",
+    "title": "Accusamus doloribus eveniet.",
+    "shortDesc": "Iure atque.",
+    "comments": 4,
+    "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident.",
+     "tags": "Health",
+    "tags1": "Lifestyle",
+    "views": 390,
+    "readTime": "3 min read"
+  },
+  {
+    "id": 8,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2025/01/illustration-world-music-day-concept-generative-ai-440x440.webp",
+    "title": "Voluptatem labore tempore.",
+    "shortDesc": "Eveniet iure.",
+    "comments": 6,
+    "description": "Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae.",
+     "tags": "Sports" ,
+    "tags1": "Trending",
+    "views": 520,
+    "readTime": "4 min read"
+  },
+  {
+    "id": 9,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/664564563-440x440.webp",
+    "title": "Dolor sit amet consectetur.",
+    "shortDesc": "Adipisicing elit.",
+    "comments": 9,
+    "description": "Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+     "tags": "Health",
+    "tags1": "food",
+    "views": 410,
+    "readTime": "3 min read"
+  },
+  {
+    "id": 10,
+    "image": "https://demo.rivaxstudio.com/syron/main/wp-content/uploads/2024/09/chapeau-tricolore-eyes-freedom-440x440.webp",
+    "title": "Iusto molestiae odit qui.",
+    "shortDesc": "Magni dolores.",
+    "comments": 2,
+    "description": "Sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.",
+     "tags": "Health",
+    "tags1": "Lifestyle",
+    "views": 330,
+    "readTime": "2 min read"
+  }
+]
